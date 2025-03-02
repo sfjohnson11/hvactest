@@ -1,0 +1,478 @@
+{
+    "id": "ductwork-rectangular",
+    "category": "Ductwork",
+    "type": "Rectangular",
+    "description": "Rectangular Ductwork",
+    "unit": "LF",
+    "sizes": [
+      { "size": "6x6", "manhours": 0.3 },
+      { "size": "8x6", "manhours": 0.35 },
+      { "size": "8x8", "manhours": 0.4 },
+      { "size": "10x6", "manhours": 0.4 },
+      { "size": "10x8", "manhours": 0.45 },
+      { "size": "10x10", "manhours": 0.5 },
+      { "size": "12x6", "manhours": 0.45 },
+      { "size": "12x8", "manhours": 0.5 },
+      { "size": "12x10", "manhours": 0.55 },
+      { "size": "12x12", "manhours": 0.6 },
+      { "size": "14x6", "manhours": 0.6 },
+      { "size": "14x8", "manhours": 0.65 },
+      { "size": "14x10", "manhours": 0.7 },
+      { "size": "14x12", "manhours": 0.75 },
+      { "size": "14x14", "manhours": 0.8 },
+      { "size": "16x6", "manhours": 0.7 },
+      { "size": "16x8", "manhours": 0.75 },
+      { "size": "16x10", "manhours": 0.8 },
+      { "size": "16x12", "manhours": 0.85 },
+      { "size": "16x14", "manhours": 0.9 },
+      { "size": "16x16", "manhours": 0.95 },
+      { "size": "18x18", "manhours": 1.1 },
+      { "size": "20x20", "manhours": 1.25 },
+      { "size": "24x24", "manhours": 1.5 }
+    ]
+  },
+  {
+    "id": "ductwork-spiral-26",
+    "category": "Ductwork",
+    "type": "Spiral",
+    "gauge": "26",
+    "description": "26 Gauge Spiral Ductwork",
+    "unit": "LF",
+    "sizes": [
+      { "size": "4\"", "manhours": 0.25 },
+      { "size": "5\"", "manhours": 0.3 },
+      { "size": "6\"", "manhours": 0.35 },
+      { "size": "7\"", "manhours": 0.4 },
+      { "size": "8\"", "manhours": 0.45 },
+      { "size": "9\"", "manhours": 0.5 },
+      { "size": "10\"", "manhours": 0.55 },
+      { "size": "12\"", "manhours": 0.65 },
+      { "size": "14\"", "manhours": 0.75 },
+      { "size": "16\"", "manhours": 0.85 },
+      { "size": "18\"", "manhours": 0.95 },
+      { "size": "20\"", "manhours": 1.05 }
+    ]
+  },
+  {
+    "id": "ductwork-spiral-24",
+    "category": "Ductwork",
+    "type": "Spiral",
+    "gauge": "24",
+    "description": "24 Gauge Spiral Ductwork",
+    "unit": "LF",
+    "sizes": [
+      { "size": "4\"", "manhours": 0.27 },
+      { "size": "5\"", "manhours": 0.32 },
+      { "size": "6\"", "manhours": 0.37 },
+      { "size": "7\"", "manhours": 0.42 },
+      { "size": "8\"", "manhours": 0.47 },
+      { "size": "9\"", "manhours": 0.52 },
+      { "size": "10\"", "manhours": 0.57 },
+      { "size": "12\"", "manhours": 0.67 },
+      { "size": "14\"", "manhours": 0.77 },
+      { "size": "16\"", "manhours": 0.87 },
+      { "size": "18\"", "manhours": 0.97 },
+      { "size": "20\"", "manhours": 1.07 },
+      { "size": "22\"", "manhours": 1.17 },
+      { "size": "24\"", "manhours": 1.27 }
+    ]
+  },
+  {
+    "id": "ductwork-spiral-22",
+    "category": "Ductwork",
+    "type": "Spiral",
+    "gauge": "22",
+    "description": "22 Gauge Spiral Ductwork",
+    "unit": "LF",
+    "sizes": [
+      { "size": "6\"", "manhours": 0.39 },
+      { "size": "7\"", "manhours": 0.44 },
+      { "size": "8\"", "manhours": 0.49 },
+      { "size": "9\"", "manhours": 0.54 },
+      { "size": "10\"", "manhours": 0.59 },
+      { "size": "12\"", "manhours": 0.69 },
+      { "size": "14\"", "manhours": 0.79 },
+      { "size": "16\"", "manhours": 0.89 },
+      { "size": "18\"", "manhours": 0.99 },
+      { "size": "20\"", "manhours": 1.09 },
+      { "size": "22\"", "manhours": 1.19 },
+      { "size": "24\"", "manhours": 1.29 },
+      { "size": "26\"", "manhours": 1.39 },
+      { "size": "28\"", "manhours": 1.49 },
+      { "size": "30\"", "manhours": 1.59 }
+    ]
+  },
+  {
+    "id": "ductwork-spiral-20",
+    "category": "Ductwork",
+    "type": "Spiral",
+    "gauge": "20",
+    "description": "20 Gauge Spiral Ductwork",
+    "unit": "LF",
+    "sizes": [
+      { "size": "8\"", "manhours": 0.51 },
+      { "size": "9\"", "manhours": 0.56 },
+      { "size": "10\"", "manhours": 0.61 },
+      { "size": "12\"", "manhours": 0.71 },
+      { "size": "14\"", "manhours": 0.81 },
+      { "size": "16\"", "manhours": 0.91 },
+      { "size": "18\"", "manhours": 1.01 },
+      { "size": "20\"", "manhours": 1.11 },
+      { "size": "22\"", "manhours": 1.21 },
+      { "size": "24\"", "manhours": 1.31 },
+      { "size": "26\"", "manhours": 1.41 },
+      { "size": "28\"", "manhours": 1.51 },
+      { "size": "30\"", "manhours": 1.61 },
+      { "size": "32\"", "manhours": 1.71 },
+      { "size": "34\"", "manhours": 1.81 },
+      { "size": "36\"", "manhours": 1.91 }
+    ]
+  },
+  {
+    "id": "ductwork-flex",
+    "category": "Ductwork",
+    "type": "Flex",
+    "description": "Flex Ductwork",
+    "unit": "LF",
+    "sizes": [
+      { "size": "4\"", "manhours": 0.15 },
+      { "size": "5\"", "manhours": 0.18 },
+      { "size": "6\"", "manhours": 0.2 },
+      { "size": "7\"", "manhours": 0.22 },
+      { "size": "8\"", "manhours": 0.25 },
+      { "size": "9\"", "manhours": 0.28 },
+      { "size": "10\"", "manhours": 0.3 },
+      { "size": "12\"", "manhours": 0.35 },
+      { "size": "14\"", "manhours": 0.4 },
+      { "size": "16\"", "manhours": 0.45 },
+      { "size": "18\"", "manhours": 0.5 },
+      { "size": "20\"", "manhours": 0.55 }
+    ]
+  },
+  {
+    "id": "equipment-ac-unit",
+    "category": "Equipment",
+    "type": "AC Unit",
+    "description": "Air Conditioning Unit",
+    "unit": "EA",
+    "sizes": [
+      { "size": "1.5 Ton", "manhours": 6 },
+      { "size": "2 Ton", "manhours": 8 },
+      { "size": "2.5 Ton", "manhours": 9 },
+      { "size": "3 Ton", "manhours": 10 },
+      { "size": "3.5 Ton", "manhours": 11 },
+      { "size": "4 Ton", "manhours": 12 },
+      { "size": "5 Ton", "manhours": 14 }
+    ]
+  },
+  {
+    "id": "equipment-furnace",
+    "category": "Equipment",
+    "type": "Furnace",
+    "description": "Gas Furnace",
+    "unit": "EA",
+    "sizes": [
+      { "size": "40,000 BTU", "manhours": 6 },
+      { "size": "60,000 BTU", "manhours": 7 },
+      { "size": "80,000 BTU", "manhours": 8 },
+      { "size": "100,000 BTU", "manhours": 9 },
+      { "size": "120,000 BTU", "manhours": 10 }
+    ]
+  },
+  {
+    "id": "equipment-heat-pump",
+    "category": "Equipment",
+    "type": "Heat Pump",
+    "description": "Heat Pump System",
+    "unit": "EA",
+    "sizes": [
+      { "size": "1.5 Ton", "manhours": 8 },
+      { "size": "2 Ton", "manhours": 10 },
+      { "size": "2.5 Ton", "manhours": 11 },
+      { "size": "3 Ton", "manhours": 12 },
+      { "size": "3.5 Ton", "manhours": 13 },
+      { "size": "4 Ton", "manhours": 14 },
+      { "size": "5 Ton", "manhours": 16 }
+    ]
+  },
+  {
+    "id": "equipment-air-handler",
+    "category": "Equipment",
+    "type": "Air Handler",
+    "description": "Air Handler Unit",
+    "unit": "EA",
+    "sizes": [
+      { "size": "1.5 Ton", "manhours": 5 },
+      { "size": "2 Ton", "manhours": 6 },
+      { "size": "2.5 Ton", "manhours": 7 },
+      { "size": "3 Ton", "manhours": 8 },
+      { "size": "3.5 Ton", "manhours": 9 },
+      { "size": "4 Ton", "manhours": 10 },
+      { "size": "5 Ton", "manhours": 12 }
+    ]
+  },
+  {
+    "id": "equipment-makeup-air",
+    "category": "Equipment",
+    "type": "Make Up Air",
+    "description": "Make Up Air Unit",
+    "unit": "EA",
+    "sizes": [
+      { "size": "200 to 399 CFM", "manhours": 2.25 },
+      { "size": "400 to 599 CFM", "manhours": 2.25 },
+      { "size": "600 to 799 CFM", "manhours": 2.75 },
+      { "size": "800 to 999 CFM", "manhours": 3 },
+      { "size": "1000 to 1499 CFM", "manhours": 3.5 },
+      { "size": "1500 to 1999 CFM", "manhours": 4 },
+      { "size": "2000 to 2999 CFM", "manhours": 4.5 },
+      { "size": "3000 to 3999 CFM", "manhours": 5 },
+      { "size": "4000 to 5999 CFM", "manhours": 6 },
+      { "size": "6000 to 7499 CFM", "manhours": 7 },
+      { "size": "7500 to 10000 CFM", "manhours": 8 },
+      { "size": "10001 to 15000 CFM", "manhours": 9 },
+      { "size": "15000 to 25000 CFM", "manhours": 10 },
+      { "size": "25001 to 30000 CFM", "manhours": 12 },
+      { "size": "30000 to 40000 CFM", "manhours": 16 },
+      { "size": "40001 to 60000 CFM", "manhours": 20 },
+      { "size": "60000 to 80000 CFM", "manhours": 24 }
+    ]
+  },
+  {
+    "id": "grills-supply-wall-register",
+    "category": "Grills and Diffusers",
+    "type": "Supply",
+    "description": "Supply air side - wall register, fixed pattern, with damper",
+    "unit": "EA",
+    "sizes": [
+      { "size": "8\" x 4\"", "manhours": 0.25 },
+      { "size": "8\" x 6\"", "manhours": 0.25 },
+      { "size": "10\" x 4\"", "manhours": 0.25 },
+      { "size": "10\" x 6\"", "manhours": 0.25 },
+      { "size": "10\" x 8\"", "manhours": 0.25 },
+      { "size": "12\" x 6\"", "manhours": 0.25 },
+      { "size": "12\" x 8\"", "manhours": 0.25 },
+      { "size": "14\" x 6\"", "manhours": 0.25 },
+      { "size": "14\" x 8\"", "manhours": 0.25 },
+      { "size": "14\" x 10\"", "manhours": 0.3 },
+      { "size": "16\" x 8\"", "manhours": 0.3 },
+      { "size": "16\" x 10\"", "manhours": 0.3 },
+      { "size": "18\" x 8\"", "manhours": 0.35 },
+      { "size": "18\" x 10\"", "manhours": 0.35 },
+      { "size": "18\" x 12\"", "manhours": 0.35 }
+    ]
+  },
+  {
+    "id": "grills-return-wall-grill",
+    "category": "Grills and Diffusers",
+    "type": "Return",
+    "description": "Return air side - wall grill, fixed pattern, without damper",
+    "unit": "EA",
+    "sizes": [
+      { "size": "14\" x 6\"", "manhours": 0.25 },
+      { "size": "14\" x 8\"", "manhours": 0.25 },
+      { "size": "16\" x 16\"", "manhours": 0.25 },
+      { "size": "20\" x 10\"", "manhours": 0.3 },
+      { "size": "20\" x 16\"", "manhours": 0.3 },
+      { "size": "20\" x 20\"", "manhours": 0.3 },
+      { "size": "24\" x 24\"", "manhours": 0.35 },
+      { "size": "30\" x 24\"", "manhours": 0.4 },
+      { "size": "36\" x 24\"", "manhours": 0.45 }
+    ]
+  },
+  {
+    "id": "grills-ceiling-diffuser-4way",
+    "category": "Grills and Diffusers",
+    "type": "Supply",
+    "description": "4-way adjustable pattern ceiling diffuser, 24x24, with collar and volume damper",
+    "unit": "EA",
+    "sizes": [
+      { "size": "6\" neck", "manhours": 0.3 },
+      { "size": "8\" neck", "manhours": 0.3 },
+      { "size": "10\" neck", "manhours": 0.3 },
+      { "size": "12\" neck", "manhours": 0.3 },
+      { "size": "14\" neck", "manhours": 0.4 },
+      { "size": "16\" neck", "manhours": 0.4 }
+    ]
+  },
+  {
+    "id": "insulation-duct-wrap",
+    "category": "Insulation",
+    "type": "Duct Wrap",
+    "description": "Fiberglass Duct Wrap Insulation",
+    "unit": "SF",
+    "sizes": [
+      { "size": "1\" thick", "manhours": 0.01 },
+      { "size": "1.5\" thick", "manhours": 0.012 },
+      { "size": "2\" thick", "manhours": 0.015 }
+    ]
+  },
+  {
+    "id": "insulation-duct-liner",
+    "category": "Insulation",
+    "type": "Duct Liner",
+    "description": "Fiberglass Duct Liner",
+    "unit": "SF",
+    "sizes": [
+      { "size": "1\" thick", "manhours": 0.02 },
+      { "size": "1.5\" thick", "manhours": 0.025 },
+      { "size": "2\" thick", "manhours": 0.03 }
+    ]
+  },
+  {
+    "id": "controls-thermostat",
+    "category": "Controls",
+    "type": "Thermostat",
+    "description": "Programmable Thermostat",
+    "unit": "EA",
+    "manhours": 1.5
+  },
+  {
+    "id": "controls-zone-damper",
+    "category": "Controls",
+    "type": "Zone Damper",
+    "description": "Motorized Zone Damper",
+    "unit": "EA",
+    "sizes": [
+      { "size": "6\"", "manhours": 0.75 },
+      { "size": "8\"", "manhours": 0.75 },
+      { "size": "10\"", "manhours": 0.75 },
+      { "size": "12\"", "manhours": 1 },
+      { "size": "14\"", "manhours": 1 },
+      { "size": "16\"", "manhours": 1.25 }
+    ]
+  },
+  {
+    "id": "vav-terminal-unit-analog",
+    "category": "Equipment",
+    "type": "VAV Terminal Unit",
+    "description": "Variable - Air volume terminal unit with analog electric controls, thermostat, actuator and controller",
+    "unit": "EA",
+    "sizes": [
+      { "size": "200 to 400 CFM", "manhours": 2 },
+      { "size": "400 to 600 CFM", "manhours": 2 },
+      { "size": "600 to 800 CFM", "manhours": 2.5 },
+      { "size": "800 to 1000 CFM", "manhours": 2.75 },
+      { "size": "1000 to 1500 CFM", "manhours": 3 },
+      { "size": "1500 to 2000 CFM", "manhours": 3.5 }
+    ]
+  },
+  {
+    "id": "vav-terminal-unit-analog-hw-coil",
+    "category": "Equipment",
+    "type": "VAV Terminal Unit",
+    "description": "Variable - Air volume terminal unit with analog electric controls, thermostat, actuator, controller and a two-row hot water coil",
+    "unit": "EA",
+    "sizes": [
+      { "size": "200 to 400 CFM", "manhours": 2.25 },
+      { "size": "400 to 600 CFM", "manhours": 2.25 },
+      { "size": "600 to 800 CFM", "manhours": 3 },
+      { "size": "800 to 1000 CFM", "manhours": 3 },
+      { "size": "1000 to 1500 CFM", "manhours": 3.5 },
+      { "size": "1500 to 2000 CFM", "manhours": 4 }
+    ]
+  },
+  {
+    "id": "vav-installation-cut-frame",
+    "category": "Installation",
+    "type": "VAV Installation",
+    "description": "Cut, frame and gasket downcomer/sidewall hole in roof",
+    "unit": "EA",
+    "manhours": 1
+  },
+  {
+    "id": "vav-installation-mount-hangers",
+    "category": "Installation",
+    "type": "VAV Installation",
+    "description": "Mount duct hangers",
+    "unit": "EA",
+    "manhours": 0.25
+  },
+  {
+    "id": "vav-installation-cut-mount-duct",
+    "category": "Installation",
+    "type": "VAV Installation",
+    "description": "Cut and mount sheet metal duct",
+    "unit": "LF",
+    "manhours": 0.35
+  },
+  {
+    "id": "vav-installation-insulation",
+    "category": "Installation",
+    "type": "VAV Installation",
+    "description": "Apply and coat duct insulation",
+    "unit": "LF",
+    "manhours": 0.15
+  },
+  {
+    "id": "vav-installation-piping",
+    "category": "Installation",
+    "type": "VAV Installation",
+    "description": "Install piping for chilled or hot water/steam",
+    "unit": "LF",
+    "manhours": 0.1
+  },
+  {
+    "id": "vav-installation-wiring",
+    "category": "Installation",
+    "type": "VAV Installation",
+    "description": "Install electrical wiring",
+    "unit": "LF",
+    "manhours": 0.15
+  },
+  {
+    "id": "vav-installation-controls",
+    "category": "Installation",
+    "type": "VAV Installation",
+    "description": "Install VAV controls",
+    "unit": "EA",
+    "manhours": 0.5
+  },
+  {
+    "id": "vav-installation-commission",
+    "category": "Installation",
+    "type": "VAV Installation",
+    "description": "Commission and Test",
+    "unit": "EA",
+    "manhours": 4
+  },
+  {
+    "id": "vav-installation-air-balance",
+    "category": "Installation",
+    "type": "VAV Installation",
+    "description": "Run air balance and fine tune system",
+    "unit": "EA",
+    "manhours": 4
+  },
+  {
+    "id": "vav-control-programmable",
+    "category": "Controls",
+    "type": "VAV Control",
+    "description": "Fully programmable 28 point controller",
+    "unit": "EA",
+    "manhours": 0.5
+  },
+  {
+    "id": "vav-control-configurable",
+    "category": "Controls",
+    "type": "VAV Control",
+    "description": "Configurable VAV pressure independent terminal box controller (with wireless transceiver)",
+    "unit": "EA",
+    "manhours": 0.5
+  },
+  {
+    "id": "vav-control-preconfigured",
+    "category": "Controls",
+    "type": "VAV Control",
+    "description": "Preconfigured controller",
+    "unit": "EA",
+    "manhours": 0.5
+  },
+  {
+    "id": "vav-control-software",
+    "category": "Controls",
+    "type": "VAV Control",
+    "description": "VAV controller system software for Windows",
+    "unit": "EA",
+    "manhours": 18
+  }
+]
